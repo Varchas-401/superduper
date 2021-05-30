@@ -1,0 +1,89 @@
+.body_background {
+    background-image: url("https://drive.google.com/file/d/1-hMfzjM02r_h02NDgkQk9WmFTB-ZErBt/view?usp=sharing");
+    background-position: center;
+    background-size: cover;
+}
+
+#myCanvas {
+    border-width: 10px;
+    background-color: white;
+    border-style: ridge;
+}
+
+h2 {
+    border-radius: 10px;
+    width: 200px;
+    padding: 5px;
+}
+
+h3 {
+    display: inline-block;
+}
+
+span {
+    color: black;
+}
+
+a {
+    text-decoration: none;
+    font-size: 20px;
+    padding: 10px;
+    float: left;
+    border-radius: 10px;
+}
+
+#head_info {
+    width: 600px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+.body_backgorund {
+    background-image: url("https://drive.google.com/file/d/1-hMfzjM02r_h02NDgkQk9WmFTB-ZErBt/view?usp=sharing");
+    background-position: center;
+    background-size: cover;
+}
+
+#myCanvas {
+    border-width: 10px;
+    background-color: white;
+    border-style: ridge;
+}
+
+h2 {
+    background: #337ab7;
+    color: white;
+    border-radius: 10px;
+    width: 200px;
+    padding: 5px;
+}
+
+h3 {
+    display: inline-block;
+}
+
+span {
+    font-size: 22px;
+    color: white;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
+
+#download {
+    background: #5bc0de;
+    float: left;
+    margin-top: 25px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+#head_info {
+    background: #d9534f;
+    width: 600px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
